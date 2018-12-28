@@ -1,1 +1,1 @@
-# trash-image-classification
+Trash Image Classification using R
